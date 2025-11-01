@@ -2,31 +2,31 @@
   {
     "name": "University of Dhaka",
     "category": "Normal",
-    "apply_start": "2025-03-01",
-    "apply_end": "2025-03-30",
-    "exam_date": "2025-04-20",
-    "fee": 1000,
-    "gpa": 7.0,
+    "apply_start": "2025-10-29",
+    "apply_end": "2025-11-16",
+    "exam_date": "2025-12-20",
+    "fee": 1050,
+    "gpa": 3.5,
     "page": "universities/du.html"
   },
   {
     "name": "BUET",
     "category": "Engr",
-    "apply_start": "2025-02-10",
-    "apply_end": "2025-03-05",
-    "exam_date": "2025-04-10",
-    "fee": 1200,
-    "gpa": 8.0,
+    "apply_start": "2025-11-16",
+    "apply_end": "2025-11-30",
+    "exam_date": "2026-01-10",
+    "fee": 1300,
+    "gpa": 5.0,
     "page": "universities/buet.html"
   },
   {
     "name": "RUET",
     "category": "Engr",
-    "apply_start": "2025-02-15",
-    "apply_end": "2025-03-15",
-    "exam_date": "2025-04-25",
-    "fee": 1100,
-    "gpa": 7.5,
+    "apply_start": "2025-11-15",
+    "apply_end": "2025-12-15",
+    "exam_date": "2026-01-03",
+    "fee": 1000,
+    "gpa": 4.0,
     "page": "universities/ruet.html"
   }
 ]
